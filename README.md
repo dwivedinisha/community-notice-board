@@ -12,7 +12,7 @@ A minimalist web platform that allows users to create, share, and browse communi
 - 🔍 Browse and filter existing announcements
 - 📱 Mobile-friendly, responsive design
 - ⚡ Built with performance and simplicity in mind
-- 🌙 Optional dark/light mode (if available)
+
 
 ---
 ## 🧑‍💻 Contributing
